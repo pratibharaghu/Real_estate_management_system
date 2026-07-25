@@ -5,7 +5,7 @@ import mysql.connector;
 from tabulate import tabulate;
 
 
-connector = mysql.connector.connect(host='localhost', user='root', password='Siddhant@1', database='real_estate_db')
+connector = mysql.connector.connect(host='localhost', user='root', password='Pratibha@1', database='real_estate_db')
 
 run = True
 if connector:

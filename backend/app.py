@@ -9,7 +9,7 @@ CORS(app)  # Enable CORS for frontend requests
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Siddhant@1",
+    password="Pratibha@1",
     database="real_estate_db"
 )
 cursor = db.cursor(dictionary=True)
